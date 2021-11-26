@@ -10,4 +10,4 @@ comments: false
 
 More info on the site here.
 
-The authors of posts in this website include {{ site.authors | array_to_sentence_string }}
+
